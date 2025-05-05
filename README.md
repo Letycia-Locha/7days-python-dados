@@ -1,4 +1,3 @@
-cat << 'EOF' > /content/drive/MyDrive/7days_python_dados/README.md
 <p align="center">
   <img src="https://wallpapers.com/images/hd/white-haired-girl-4k-lo-fi-mcz0algcq3rrji98.jpg" alt="Capa do Projeto" width="600"/>
 </p>
